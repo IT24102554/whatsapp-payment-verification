@@ -1,0 +1,6 @@
+{
+  "name": "BuildStart WhatsApp Bank Payment Verification Engine",
+  "description": "Automated multi-tier bank transfer payment verification and fraud detection system for WhatsApp SME agents with bank SMS matching, fraud forensics, and staff decision console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
